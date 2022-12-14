@@ -1,0 +1,15 @@
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\obj\Debug\net6.0\Exemples005_ConditionIfElse.csproj.AssemblyReference.cache
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\obj\Debug\net6.0\Exemples005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\obj\Debug\net6.0\Exemples005_ConditionIfElse.AssemblyInfoInputs.cache
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\obj\Debug\net6.0\Exemples005_ConditionIfElse.AssemblyInfo.cs
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\obj\Debug\net6.0\Exemples005_ConditionIfElse.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\bin\Debug\net6.0\Exemples005_ConditionIfElse.exe
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\bin\Debug\net6.0\Exemples005_ConditionIfElse.deps.json
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\bin\Debug\net6.0\Exemples005_ConditionIfElse.runtimeconfig.json
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\bin\Debug\net6.0\Exemples005_ConditionIfElse.dll
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\bin\Debug\net6.0\Exemples005_ConditionIfElse.pdb
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\obj\Debug\net6.0\Exemples005_ConditionIfElse.dll
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\obj\Debug\net6.0\refint\Exemples005_ConditionIfElse.dll
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\obj\Debug\net6.0\Exemples005_ConditionIfElse.pdb
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\obj\Debug\net6.0\Exemples005_ConditionIfElse.genruntimeconfig.cache
+D:\GeekBrains\Git_lokal_files\Examples\Exemples005_ConditionIfElse\obj\Debug\net6.0\ref\Exemples005_ConditionIfElse.dll
