@@ -1,0 +1,15 @@
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\bin\Debug\net6.0\Exempl004_Div.exe
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\bin\Debug\net6.0\Exempl004_Div.deps.json
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\bin\Debug\net6.0\Exempl004_Div.runtimeconfig.json
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\bin\Debug\net6.0\Exempl004_Div.dll
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\bin\Debug\net6.0\Exempl004_Div.pdb
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\obj\Debug\net6.0\Exempl004_Div.csproj.AssemblyReference.cache
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\obj\Debug\net6.0\Exempl004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\obj\Debug\net6.0\Exempl004_Div.AssemblyInfoInputs.cache
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\obj\Debug\net6.0\Exempl004_Div.AssemblyInfo.cs
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\obj\Debug\net6.0\Exempl004_Div.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\obj\Debug\net6.0\Exempl004_Div.dll
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\obj\Debug\net6.0\refint\Exempl004_Div.dll
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\obj\Debug\net6.0\Exempl004_Div.pdb
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\obj\Debug\net6.0\Exempl004_Div.genruntimeconfig.cache
+D:\GeekBrains\Git_lokal_files\Examples\Exempl004_Div\obj\Debug\net6.0\ref\Exempl004_Div.dll
